@@ -1,0 +1,10 @@
+.flexRowContent {
+    background: #303030;
+    width: 100%;
+}
+
+.flexCol {
+    background: #303030;
+    width: fit-content;
+}
+

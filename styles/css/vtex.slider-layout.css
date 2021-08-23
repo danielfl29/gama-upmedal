@@ -1,0 +1,16 @@
+.slideChildrenContainer--carousel :global(.vtex-store-components-3-x-imageElement){
+    border-radius: 1.5rem;
+}
+
+.slideChildrenContainer,
+.slideChildrenContainer--carousel :global(.vtex-store-components-3-x-imageElement){
+    background-color: #303030;
+}
+
+.caretIcon.caretIcon--carousel {
+    color: #ffffff;
+}
+
+.paginationDot--isActive{
+    background-color: #59ff00;
+}

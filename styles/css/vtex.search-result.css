@@ -1,0 +1,18 @@
+.totalProducts--layout,
+.orderByDropdown {
+    background-color: #303030;
+}
+
+.filterPopupTitle,
+.caretIcon {
+    color: #fff;
+}
+
+.buttonShowMore :global(.vtex-button) {
+    color: #fff;
+    background-color: #59FF00;
+    border: none;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+    

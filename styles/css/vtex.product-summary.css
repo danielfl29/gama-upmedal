@@ -1,0 +1,20 @@
+.container {
+    background: #424242;
+}
+
+.productBrand {
+    color: white;
+}
+
+.price_sellingPrice {
+    color: #59FF00;
+}
+
+.buyButton :global(.vtex-button) {
+    background-color: #59FF00;
+    border: none;
+}
+
+.imageNormal {
+    height: 225px;
+}

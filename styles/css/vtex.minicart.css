@@ -1,0 +1,11 @@
+.closeIcon,
+.minicartTitle,
+.cartIcon.cartIcon--minicart-empty-state,
+.cartIcon {
+    color: white;
+}
+
+.minicartCheckoutButton :global(.vtex-button) {
+    background-color: #59FF00;
+    border: none;
+}

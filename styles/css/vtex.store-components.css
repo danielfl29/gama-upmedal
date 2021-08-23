@@ -1,0 +1,24 @@
+.searchBarContainer {
+    width: 800px;
+    background: #212121;
+    justify-content: center;
+}
+
+.searchBarContainer :global(.vtex-input-prefix__group) {
+    border: none;
+    border-bottom: thin solid white;
+}
+
+.searchBarContainer :global(.vtex-input__suffix) {
+    background: transparent;
+}
+
+.searchBarContainer :global(.vtex-styleguide-9-x-input) {
+    background: transparent;
+    color: #212121;
+}
+
+.closeIcon,
+.searchIcon {
+    color: #ffffff;
+}
